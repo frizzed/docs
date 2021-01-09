@@ -9,11 +9,11 @@ Used to list all of our upcoming features within the year, features are categori
 | One Frizzed Way Campus | Our upcoming campus, which will be served as a training centre, event hall, and more | ✅ Ongoing |
 | Project Frizzed | Our upcoming cafe | ⏳ Deferred |
 | Drive through | Adding drive through as a feature in our cafe | ⏳ Deferred |
-| Ordering system recode | A complete recode of our current ordering system, recoded to be best in performance, and adopts new technology | ✅ Ongoing |
+| Ordering system recode | A complete recode of our current ordering system, recoded to be best in performance, and adopts new technology | ⏳ Deferred |
 | Cooking system | Adding cooking as a feature in our cafe, baristas will be able to cook to produce food | ⏳ Deferred |
 | New items | New drinks and foods for our menu in our cafe | ⏳ Deferred |
 | New application centre | A brand-new custom application centre | ✅ Ongoing |
-| Discord server refresh | The current channels and the layout is a bit old and messy, we will be redoing the whole layout to improve the cleanliness  | ✅ Ongoing |
+| Discord server refresh | The current channels and the layout is a bit old and messy, we will be redoing the whole layout to improve the cleanliness  | Live |
 | New uniform | We will be bring new uniform to fit with our new logo | ✅ Ongoing |
 
 ## 2nd Quarter
